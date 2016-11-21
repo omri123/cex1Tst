@@ -4,7 +4,7 @@ import difflib
 testsFolderPath = "//cs//usr//omribloch//Desktop//c//ex1//myTests//"
 programPath = "//cs//usr//omribloch//Desktop//c//ex1//StringChange"
 
-for i in range(1,12):
+for i in range(1,13):
 
     inputFilePath = testsFolderPath + "string" + str(i) + ".txt"
     outputFilePath = testsFolderPath + "string" + str(i) + "out.txt"
